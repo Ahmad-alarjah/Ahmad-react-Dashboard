@@ -1,6 +1,6 @@
 # 🚀 Ahmad React Dashboard
 
-![Dashboard Preview](https://raw.githubusercontent.com/Ahmad-alarjah/Ahmad-react-Dashboard/refs/heads/main/Screenshot%202025-02-24%20180902.png)
+![Dashboard Preview](https://raw.githubusercontent.com/Ahmad-alarjah/Ahmad-react-Dashboard/refs/heads/main/public/images/Screenshot%202025-02-24%20180902.png)
 
 A modern, fast, and responsive **Admin Dashboard** built with **React.js** and **Vite.js**, designed using **MUI**, featuring interactive **Nivo Charts**, and enhanced with **React-Toastify** for notifications.
 
@@ -20,9 +20,9 @@ A modern, fast, and responsive **Admin Dashboard** built with **React.js** and *
 - **React-Toastify** (User-friendly toast notifications)
 
 ## 📸 Screenshots
-![Dashboard Screenshot](https://raw.githubusercontent.com/Ahmad-alarjah/Ahmad-react-Dashboard/refs/heads/main/Screenshot%202025-02-24%20180902.png)  
-![Dashboard Screenshot](https://raw.githubusercontent.com/Ahmad-alarjah/Ahmad-react-Dashboard/refs/heads/main/Screenshot%202025-02-24%20181027.png)  
-![Dashboard Screenshot](https://raw.githubusercontent.com/Ahmad-alarjah/Ahmad-react-Dashboard/refs/heads/main/Screenshot%202025-02-24%20181047.png)  
+![Dashboard Screenshot](https://raw.githubusercontent.com/Ahmad-alarjah/Ahmad-react-Dashboard/refs/heads/main/public/images/Screenshot%202025-02-24%20180902.png)  
+![Dashboard Screenshot](https://raw.githubusercontent.com/Ahmad-alarjah/Ahmad-react-Dashboard/refs/heads/main/public/images/Screenshot%202025-02-24%20181027.png)  
+![Dashboard Screenshot](https://raw.githubusercontent.com/Ahmad-alarjah/Ahmad-react-Dashboard/refs/heads/main/public/images/Screenshot%202025-02-24%20181047.png)  
 
 
 ## 🚀 Installation & Setup
